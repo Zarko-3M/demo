@@ -52,4 +52,11 @@ public class Greet {
 //    -||- deo treci
 }
 
-//    pokusaj da napravim konflikt
+//    pokusaj da napravim konflikta
+
+//    konflikt sa tigrom
+//      -
+//      --
+//      ---
+//      ----
+//      -----
