@@ -60,3 +60,15 @@ public class Greet {
 //      ...
 //      ....
 //      .....
+
+//    pokusaj da napravim konflikta
+
+//    konflikt sa tigrom
+//      -
+//      --
+//      ---
+//      ----
+//      -----
+
+//  izmene main i tigra su spojene i resen je konflikt
+
