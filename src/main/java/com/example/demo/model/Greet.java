@@ -52,10 +52,6 @@ public class Greet {
 //    -||- deo treci
 }
 
-//    pokusaj da napravim konflikt
-
-//      drugi pokusaj pravljenja konflikta
-//      .
 //      ..
 //      ...
 //      ....
@@ -68,7 +64,7 @@ public class Greet {
 //      --
 //      ---
 //      ----
-//      -----
+//      abc
 
 //  izmene main i tigra su spojene i resen je konflikt
 
